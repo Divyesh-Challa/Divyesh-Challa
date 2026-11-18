@@ -21,10 +21,6 @@ ALS can take away someone's voice and hands long before it takes their eyes. Rel
 **[Amazon Review Synthesizer](https://github.com/Divyesh-Challa/Amazon-Review-Synthesizer)** · Chrome extension, FastAPI, Gemini
 A browser extension that reads a product's reviews so you don't have to, and surfaces the pros, cons and defect warnings.
 
-## What I work with
-
-Python, TypeScript, JavaScript, SQL · Next.js, React, FastAPI, Supabase (Postgres) · Vercel, GitHub Actions
-
 ## Off the keyboard
 
 When I'm not coding, I'm usually in or on the water. I paddle sprint canoe and kayak (the 1000m is my favourite race), I swim, and I coach paddlers of every age, from 8-year-olds to senior citizens.
