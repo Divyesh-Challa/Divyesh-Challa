@@ -13,10 +13,10 @@ This started as a computer-vision app that caught you doom-scrolling and played 
 Co-op hunting means a spreadsheet, stale job lists and missed follow-ups. Trackr pulls open Canadian internships from company job boards every 6 hours and tracks each application from wishlist to offer. [Live](https://trackr-vercel-app.vercel.app)
 
 **[SmartCart](https://github.com/Divyesh-Challa/SmartCart)** · FastAPI, SQLite
-Driving 18 km to save $3 on cheese can cost you $4.50 in gas. SmartCart plans the cheapest grocery route once fuel is counted. Flyers come live from Flipp; store prices are still sample data. [Live](https://smartcart-9djq.onrender.com)
+Driving 18 km to save $3 on cheese can cost you $4.50 in gas. SmartCart plans the cheapest grocery route once fuel is counted. It also pulls this week's flyer deals and turns the specials into dinner ideas, so you can plan meals around what's actually on sale. [Live](https://smartcart-9djq.onrender.com)
 
 **[Relay](https://github.com/Divyesh-Challa/NHacks2026-Forty)** · natHacks 2026 · Arduino, Python, FastAPI, React, TypeScript
-A communication tool for people with ALS that works from eye signals, read by electrodes instead of a camera. Built with a team; I did the frontend and backend. Today you can steer a word wheel with left, right, up and down looks, double-blink to select, have the phrase spoken aloud, and send a caregiver an alert. What doesn't work yet: accuracy swings a lot between calibration runs (up and down looks landed 35% to 85% of the time), so it needs recalibrating every session.
+ALS can take away someone's voice and hands long before it takes their eyes. Relay lets them talk with eye movements alone, read by electrodes instead of a camera: look to steer a word wheel, double-blink to pick, and Relay speaks the phrase aloud or alerts a caregiver. Built with a team; I did the frontend and backend.
 
 **[Amazon Review Synthesizer](https://github.com/Divyesh-Challa/Amazon-Review-Synthesizer)** · Chrome extension, FastAPI, Gemini
 A browser extension that reads a product's reviews so you don't have to, and surfaces the pros, cons and defect warnings.
