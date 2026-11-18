@@ -2,7 +2,7 @@
 
 I build software for problems I've actually run into, then ship it so other people can use it. I'm a third-year Computing Science student at the University of Alberta in Edmonton, and I'm looking for 2027 software internships and co-ops.
 
-Best Soloist at hackED Beta 2026 · Built World Challenge finalist · Software team at ARVP, our autonomous vehicle project
+Best Soloist at hackED Beta 2026 · Built World Challenge finalist · Software team at ARVP (Autonomous Robotics Vehicle Project)
 
 ## Things I've built
 
@@ -21,9 +21,17 @@ A communication tool for people with ALS that works from eye signals, read by el
 **[Amazon Review Synthesizer](https://github.com/Divyesh-Challa/Amazon-Review-Synthesizer)** · Chrome extension, FastAPI, Gemini
 A browser extension that reads a product's reviews so you don't have to, and surfaces the pros, cons and defect warnings.
 
+## What I work with
+
+Python, TypeScript, JavaScript, SQL · Next.js, React, FastAPI, Supabase (Postgres) · Vercel, GitHub Actions
+
 ## Off the keyboard
 
-I paddle and coach sprint canoe and kayak, I swim, and I've recently been trying to tap into my ancestral roots by learning to boulder. I'm into autonomous robotics, which is how I ended up on ARVP's software team.
+When I'm not coding, I'm usually in or on the water. I paddle sprint canoe and kayak (the 1000m is my favourite race), I swim, and I coach paddlers of every age, from 8-year-olds to senior citizens.
+
+Lately I've taken up bouldering to reconnect with my ancestors. It took millions of years of evolution to get us out of the trees, and I'm doing my best to climb back up. I'm stuck on V3, so the ancestors are winning.
+
+I'm also into autonomous robotics, which is how I ended up writing software for ARVP.
 
 ## Say hi
 
